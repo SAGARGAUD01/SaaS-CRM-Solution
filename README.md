@@ -20,9 +20,6 @@ This project is a SaaS CRM solution that provides a comprehensive suite of tools
 - [Development Workflow](#development-workflow)
 - [API Documentation](#api-documentation)
 - [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Tech Stack
 
