@@ -4,6 +4,9 @@
 
 This project is a SaaS CRM solution that provides a comprehensive suite of tools to manage client interactions and streamline operations. The key features include viewing upcoming bookings, tracking users via tagged links, writing session notes, accessing analytical data, and handling payments. 
 
+About me:
+<a href="https://www.linkedin.com/in/sagargaud332/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+
 ## Features
 
 1. **Viewing Upcoming Bookings**: Allows users to see their upcoming appointments and manage their schedules.
